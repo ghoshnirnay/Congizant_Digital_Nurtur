@@ -1,6 +1,6 @@
 ﻿/*
  * Exercise 5: Task Management System
- * Author: Nilanjan Pradhan
+ * Author: Nirnay Ghosh
  * Description: Manage tasks using a Singly Linked List.
  */
 

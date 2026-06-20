@@ -1,5 +1,5 @@
 ﻿// -----------------------------------------------------------------------------
-// Developer      : Nilanjan Pradhan
+// Developer      :Nirnay Ghosh
 // Assignment     : Cognizant Digital Nurture 5.0
 // Exercise Title : E-commerce Platform Search Function
 // Language       : C# (.NET 9.0 Console App)

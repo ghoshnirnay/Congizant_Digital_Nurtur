@@ -1,6 +1,6 @@
 ﻿/*
  * Exercise 3: Sorting Customer Orders
- * Author: Nilanjan Pradhan
+ * Author: Nirnay Ghosh
  * Description: Sort customer orders based on total price using Bubble Sort and Quick Sort.
  */
 

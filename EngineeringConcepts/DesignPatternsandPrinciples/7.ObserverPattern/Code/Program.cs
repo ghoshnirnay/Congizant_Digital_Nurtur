@@ -1,5 +1,5 @@
 ﻿// Exercise 7: Implementing the Observer Pattern
-// Name: Nilanjan Pradhan
+// Name: Nirnay Ghosh
 // Assignment: Cognizant Digital Nurture 5.0 - Week 1 (Design Patterns & Principles)
 
 using System;

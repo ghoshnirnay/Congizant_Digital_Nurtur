@@ -1,6 +1,6 @@
 ﻿/*
  * Exercise 4: Employee Management System
- * Author: Nilanjan Pradhan
+ * Author: Nirnay Ghosh
  * Description: Manage employee records using array operations such as add,
  * search, traverse, and delete.
  */

@@ -1,6 +1,6 @@
-﻿/*
+/*
  * Exercise 6: Library Management System
- * Author: Nilanjan Pradhan
+ * Author: Nirnay Ghosh
  * Description: Search books by title using Linear Search and Binary Search.
  */
 

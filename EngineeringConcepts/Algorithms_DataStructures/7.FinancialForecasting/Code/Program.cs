@@ -1,6 +1,6 @@
 ﻿﻿/*
  * Exercise 7: Financial Forecasting
- * Author: Nilanjan Pradhan
+ * Author: Nirnay Ghosh
  * Description: Recursive algorithm to forecast future values based on past growth rates.
  */
 

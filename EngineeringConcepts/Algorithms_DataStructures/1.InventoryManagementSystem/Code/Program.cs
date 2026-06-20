@@ -1,5 +1,5 @@
 ﻿// Assignment: Exercise 1 - Inventory Management System
-// Submitted by: Nilanjan Pradhan
+// Submitted by: Nirnay Ghosh
 // Cognizant Digital Nurture 5.0
 
 using System;

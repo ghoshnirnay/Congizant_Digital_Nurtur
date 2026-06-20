@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Cognizant-Digital-Nurture-5.0\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\Code.csproj": {}
+    "C:\\Users\\ghosh\\Downloads\\Congizant_Digital_Nurtur\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\Code.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Cognizant-Digital-Nurture-5.0\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\Code.csproj": {
+    "C:\\Users\\ghosh\\Downloads\\Congizant_Digital_Nurtur\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Cognizant-Digital-Nurture-5.0\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\Code.csproj",
+        "projectUniqueName": "C:\\Users\\ghosh\\Downloads\\Congizant_Digital_Nurtur\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\Code.csproj",
         "projectName": "Code",
-        "projectPath": "D:\\Desktop\\Cognizant-Digital-Nurture-5.0\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\Code.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Cognizant-Digital-Nurture-5.0\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\obj\\",
+        "projectPath": "C:\\Users\\ghosh\\Downloads\\Congizant_Digital_Nurtur\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\Code.csproj",
+        "packagesPath": "C:\\Users\\ghosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ghosh\\Downloads\\Congizant_Digital_Nurtur\\EngineeringConcepts\\Algorithms_DataStructures\\7.FinancialForecasting\\Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ghosh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net10.0": {
             "framework": "net10.0",
